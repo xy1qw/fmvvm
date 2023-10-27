@@ -1,0 +1,8 @@
+name: fmvvm_annotation
+description: Annotations for fmvvm
+version: 0.0.1
+homepage: https://github.com/xy1qw/fmvvm/fmvvm_annotation
+publish_to: none
+
+environment: 
+  sdk: '>=3.0.0 <4.0.0'

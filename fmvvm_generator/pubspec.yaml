@@ -1,0 +1,18 @@
+name: fmvvm_generator
+description: fmvvm generator.
+version: 0.0.1
+homepage: https://github.com/xy1qw/fmvvm/fmvvm_generator
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  analyzer: ^6.3.0
+  build: ^2.4.1
+  build_config: ^1.1.1
+  source_gen: ^1.4.0
+  code_builder: ^4.7.0
+  dart_style: ^2.3.3
+  fmvvm_annotation:
+    path: ../fmvvm_annotation/
